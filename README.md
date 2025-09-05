@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I'm currently working on patient record management system <br>🌱 I'm currently learning Typescript, next.js, React Native 
+web developer with hands-on experience in
+Personal Info building responsive,user-focused applications using modern frameworks. Completed muitiple projects demonstrating initiative, problem
+solving, and technical proficiency. Eager to contribute to dynamic teams, apply
+emerging technologies,and deliver impactfuldigital solutions in a professional setting.
 
 
 ## 🌐 Socials:
